@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>src/Jump-SoundBible.com-1007297584.wav</file>
+        <file>src/bgsound.mp3</file>
+    </qresource>
+</RCC>

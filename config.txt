@@ -1,0 +1,4 @@
+initial_position = 0;
+size = ["tiny", "normal", "large", "giant"];
+speed = 0;
+background = "img/background.png";
